@@ -1,6 +1,13 @@
-# OS & IDE files
+﻿# OS & IDE files
 .DS_Store
 Thumbs.db
 *.log
 .vscode/
 .idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+cpu_scheduling_backup.py
